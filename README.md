@@ -2,10 +2,8 @@
   <img width="80" src="https://res.cloudinary.com/dd5a8yar0/image/upload/v1657272635/ghost-g9fc98e6d0_1280_byheet.png" alt="Material Bread logo">
 </p>
 
-<h3 align="center">eSoul</h3>
+<h3 align="center">lBuy</h3>
 <p align = "center">eCommerce platform built with the MERN stack &amp; Redux.
-<p align="center">Visit <a href="https://esoulapp.herokuapp.com/">eSoul</a></p>
-
 </p>
 
 ---
